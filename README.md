@@ -1,6 +1,8 @@
 
 
 # mintutils
+[![PyPI Version](https://img.shields.io/pypi/v/mintutils.svg)](https://pypi.org/project/mintutils/)
+[![PyPI Downloads](https://img.shields.io/pypi/dm/mintutils.svg)](https://pypi.org/project/mintutils/)
 
 ![image](https://github.com/muhiris/debutils/assets/80543033/f28dee09-eb22-4589-8647-c11bc25a1dfb)
 
