@@ -98,6 +98,10 @@ def install_WifiHotspot():
 def install_wireshark():
     print("Installing wireshark...")
     os.system("sudo apt install wireshark")
+def install_trashx():
+    print("Installing Tempmail")
+    os.system("npm install -g trashx")
+    
 
 install_functions = {
     "vim": install_vim,
@@ -122,6 +126,7 @@ install_functions = {
     "android_studio": install_android_studio,
     "WifiHotspot": install_WifiHotspot,
     "wireshark": install_wireshark,
+    "trashx": install_trashx
     # Add more mappings for other apps
 }
 

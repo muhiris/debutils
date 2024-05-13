@@ -13,6 +13,7 @@ signal
 slack
 spotify
 telegram
+trashx
 vlc
 vscode
 vim
