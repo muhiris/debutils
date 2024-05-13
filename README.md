@@ -9,7 +9,18 @@
 
 `mintutils` is a set of utilities for Debian-based systems to install common softwares. It make installation of essential softwares simple and beginner friendly
 
-## Quick Start
+## How To Use
+
+Copy and Paste these lines onto your terminal:
+
+   ```bash
+   sudo apt install python3
+   git clone https://github.com/muhiris/mintutils.git
+   cd mintutils
+   python3 init.py
+   ```
+
+## Quick Start (Deprecated)
 
 To quickly download and use `mintutils`, run the following command:
 
@@ -19,15 +30,3 @@ mintutils
 ```
 
 This command will download the latest version of `mintutils` from the PyPI, and execute the initialization script.
-
-## Manual Installation
-
-Make sure you have the following prerequisites installed on your Debian-based system:
-
-- Python 3
-
-   ```bash
-   git clone https://github.com/muhiris/mintutils.git
-   cd mintutils
-   python3 init.py
-   ```
